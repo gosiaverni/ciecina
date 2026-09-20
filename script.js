@@ -188,7 +188,7 @@ const placesData = {
     icon: pin1470,
     title: "Sienno",
     description: `
-    <p></p>
+    <p>1470 r.</p>
     
   `,
     
@@ -243,7 +243,7 @@ const placesData = {
     icon: pin1470,
     title: "Szaniec",
     description: `
-    <p></p>
+    <p>1485-1500r.</p>
     
   `,
     photos: ["assets/IMG_0411.jpg"]
@@ -253,7 +253,7 @@ const placesData = {
     icon: pin1470,
     title: "Barcice",
     description: `
-    <p></p>
+    <p>1485-1500r.</p>
     
   `,
     photos: ["assets/IMG_0412.jpg"]
@@ -263,7 +263,7 @@ const placesData = {
     icon: pin1470,
     title: "Rabka",
     description: `
-    <p></p>
+    <p>1485-1500r.</p>
     
   `,
     photos: ["assets/IMG_0413.jpg"]
