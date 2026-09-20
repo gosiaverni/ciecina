@@ -182,16 +182,7 @@ const placesData = {
     photos: ["assets/wit-stwosz-oltarz-mariacki-3.jpg"]
   },
   
-   dominikanie: {
-    coords: [50.05944612557631, 19.93912729750981],
-    icon: pin1470,
-    title: "Kraków - dominikanie",
-    description: `
-    <p></p>
-   
-  `,
-    photos: ["assets/IMG_0414.jpg"]
-  },
+
    sienno: {
     coords: [49.714457276460074, 20.707536074765144],
     icon: pin1470,
