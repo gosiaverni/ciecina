@@ -216,7 +216,7 @@ const placesData = {
   },
 
   zborowek: {
-    coords: [49.77418770312795, 20.23631682633311],
+    coords: [50.394186042992835, 21.096524744371195],
     icon: pin1470,
     title: "Zborówek",
     description: `
