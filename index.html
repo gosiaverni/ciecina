@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Interaktywna mapa</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+  <!-- MAPA -->
+  <div id="map"></div>
+
+  <!-- LEWY GÓRNY PANEL -->
+  <div class="top-left">
+
+    <div class="menu-group 1420">
+      <button class="main-btn dark">1420-1470</button>
+      <div class="submenu">
+ 
+  <button data-place="ptaszkowa">Ptaszkowa</button>
+  <button data-place="sromowce">Sromowce Niżne</button>
+  <button data-place="wołowiec">Wołowiec</button>
+  <button data-place="opatówek">Opatówek</button>
+  <button data-place="trzebunia">Trzebunia</button>
+  <button data-place="łopuszna">Łopuszna</button>
+  <button data-place="przydonica">Przydonica</button>
+  <button data-place="paczółtowice">Paczółtowice</button>
+      </div>
+    </div>
+
+    <div class="menu-group 1470">
+      <button class="main-btn gold">1470-1500</button>
+     <div class="submenu">
+      
+  <button data-place="racławice">Racławice Olkuskie</button>
+  <button data-place="olkusz">Olkusz</button>
+  <button data-place="stwosz">Wit Stwosz</button>
+  <button data-place="dominikanie">Kraków - dominikanie</button>
+  <button data-place="sienno">Sienno</button>
+  <button data-place="krzyz">Wawel - Krzyża Św.</button>
+  <button data-place="kusnierzy">Kraków - kaplica Kuśnierzy</button>
+  <button data-place="zborowek">Zborówek</button>
+  <button data-place="ksiaznice">Książnice Wielkie</button>
+  <button data-place="szaniec">Szaniec</button>
+  <button data-place="barcice">Barcice</button>
+  <button data-place="rabka">Rabka</button>
+  <button data-place="włocławek">Włocławek</button>
+  <button data-place="jodłownik">Jodłownik</button>
+  <button data-place="cięcina">Cięcina</button>
+</div>
+    </div>
+
+    <div class="menu-group 1500">
+      <button class="main-btn dark">1500-1540</button>
+      <div class="submenu">
+ 
+  <button data-place="ptaszkowa">Ptaszkowa</button>
+  <button data-place="sromowce">Sromowce Niżne</button>
+  <button data-place="wołowiec">Wołowiec</button>
+  <button data-place="opatówek">Opatówek</button>
+  <button data-place="trzebunia">Trzebunia</button>
+  <button data-place="łopuszna">Łopuszna</button>
+  <button data-place="przydonica">Przydonica</button>
+  <button data-place="paczółtowice">Paczółtowice</button>
+      </div>
+    </div>
+
+     
+        </div>
+
+ 
+
+ 
+
+<!-- PRAWY PANEL -->
+<div class="info-panel" id="infoPanel">
+  <h2 id="placeTitle">Tytuł</h2>
+  <p id="placeDescription">tutaj opis</p>
+</div>
+
+<!-- LEWE PANELE -->
+<div class="left-panels">
+
+  <div class="gallery-panel" id="photoPanel">
+    <img id="photoImage" src="" alt="">
+    <div class="gallery-controls">
+      <button id="prevPhoto">←</button>
+      <button id="nextPhoto">→</button>
+    </div>
+  </div>
+
+  <div class="gallery-panel" id="planPanel">
+    <img id="planImage" src="" alt="">
+    <div class="gallery-controls">
+      <button id="prevPlan">←</button>
+      <button id="nextPlan">→</button>
+    </div>
+  </div>
+
+</div>
+<div class="lightbox" id="lightbox">
+  <img id="lightboxImage" src="">
+</div>
+</div>
+
+<script src="script.js" defer></script>
+</body>
+</html>
