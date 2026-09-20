@@ -3,7 +3,7 @@ const map = L.map('map').setView([52.237049, 21.017532], 6);
 
 // Warstwa mapy (OpenStreetMap)
 L.tileLayer(
-    'https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+    'https://basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}.png?key=cb1_3rhz_1_c58c46c393b174dcd8f5b84d',
     {
         attribution: '&copy; OpenStreetMap &copy; CARTO',
         maxZoom: 20
