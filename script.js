@@ -205,14 +205,14 @@ const placesData = {
   },
 
   kusnierzy: {
-    coords: [49.77418770312795, 20.23631682633311],
+    coords: [50.06172837202776, 19.93938507264462],
     icon: pin1470,
     title: "Kraków - kościół Mariacki - kaplica Kuśnierzy",
     description: `
     <p></p>
     
   `,
-    photos: ["assets/IMG_0408.jpg"]
+    photos: ["assets/148822a6d35b1e2e3a0582f840d95eb4.jpg"]
   },
 
   zborowek: {
