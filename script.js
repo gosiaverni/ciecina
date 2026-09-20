@@ -297,7 +297,7 @@ const placesData = {
     <p>1496 r.</p>
     
   `,
-    photos: ["assets/CopernicusHouse.jpg", "assets/Dom_kopernika_2,_ul_kopernika.jpg", "assets/dom-kopernika.jpg", "assets/568fe1ca46576.jpg"]
+    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
   },
   
 };
