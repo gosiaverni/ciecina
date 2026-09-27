@@ -206,16 +206,8 @@ const placesData = {
     photos: ["assets/148822a6d35b1e2e3a0582f840d95eb4.jpg"]
   },
 
-  zborowek: {
-    coords: [50.394186042992835, 21.096524744371195],
-    icon: pin1470,
-    title: "Zborówek",
-    description: `
-    <p></p>
-    
-  `,
-    photos: [""]
-  },
+ 
+
    krzyz: {
     coords: [50.054754176257426, 19.93548985518123],
     icon: pin1470,
