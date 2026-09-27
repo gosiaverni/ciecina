@@ -1,5 +1,5 @@
-// Inicjalizacja mapy (Polska)
-const map = L.map('map').setView([52.237049, 21.017532], 6);
+// Inicjalizacja mapy (Małopolska)
+const map = L.map('map').setView([49.9, 20.1], 9);
 
 // Warstwa mapy (OpenStreetMap)
 L.tileLayer(
@@ -224,7 +224,7 @@ const placesData = {
     icon: pin1470,
     title: "Książnice Wielkie",
     description: `
-    <p></p>
+    <p>1491 r.</p>
     
   `,
     photos: ["assets/IMG_0410.jpg"]
