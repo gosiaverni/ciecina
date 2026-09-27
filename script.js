@@ -302,7 +302,7 @@ const placesData = {
     <p>1529 r.</p>
     
   `,
-    photos: ["assets/IMG_0452.jpg"]
+    photos: ["assets/IMG_0451.jpg"]
   },
 
   jerzy: {
