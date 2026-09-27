@@ -291,7 +291,7 @@ const placesData = {
     <p></p>
     
   `,
-    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+    photos: ["assets/IMG_0455.jpg"]
   },
 
     zborówek: {
@@ -302,7 +302,7 @@ const placesData = {
     <p>1529 r.</p>
     
   `,
-    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+    photos: ["assets/IMG_0452.jpg"]
   },
 
   jerzy: {
@@ -313,7 +313,7 @@ const placesData = {
     <p>1517 r.</p>
     
   `,
-    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+    photos: ["assets/IMG_0449.jpg"]
   },
 
 bodzentyn: {
@@ -324,7 +324,7 @@ bodzentyn: {
     <p>1510-15 r.</p>
     
   `,
-    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+    photos: ["assets/IMG_0444.jpg"]
   },
 
   libusza: {
@@ -335,7 +335,7 @@ bodzentyn: {
     <p>1523 r.</p>
     
   `,
-    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+    photos: ["assets/IMG_0453.jpg"]
   },
   
   sabinow: {
@@ -346,7 +346,7 @@ bodzentyn: {
     <p>1500-10 r.</p>
     
   `,
-    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+    photos: ["assets/IMG_0447.jpg"]
   },
 };
 
