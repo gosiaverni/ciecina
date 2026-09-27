@@ -313,7 +313,7 @@ const placesData = {
     <p>1517 r.</p>
     
   `,
-    photos: ["assets/IMG_0449.jpg"]
+    photos: ["assets/Master_Georgius_Annunciation.jpg"]
   },
 
 bodzentyn: {
