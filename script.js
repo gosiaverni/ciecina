@@ -290,7 +290,72 @@ const placesData = {
   `,
     photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
   },
+
+   skołyszyn: {
+    coords: [49.74975318704654, 21.335127025062725],
+    icon: pin1500,
+    title: "Skołyszyn",
+    description: `
+    <p></p>
+    
+  `,
+    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+  },
+
+    zborówek: {
+    coords: [50.40351442718979, 21.101159726594805],
+    icon: pin1500,
+    title: "Zborówek",
+    description: `
+    <p>1529 r.</p>
+    
+  `,
+    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+  },
+
+  jerzy: {
+    coords: [50.054871280712696, 19.9373030284814],
+    icon: pin1500,
+    title: "Mistrz Jerzy - Wawel - Kraków",
+    description: `
+    <p>1517 r.</p>
+    
+  `,
+    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+  },
+
+bodzentyn: {
+    coords: [50.941059692102336, 20.95781153705876],
+    icon: pin1500,
+    title: "Bodzentyn",
+    description: `
+    <p>1510-15 r.</p>
+    
+  `,
+    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+  },
+
+  libusza: {
+    coords: [49.69397069172358, 21.238035895510944],
+    icon: pin1500,
+    title: "Libusza",
+    description: `
+    <p>1523 r.</p>
+    
+  `,
+    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+  },
   
+  sabinow: {
+    coords: [49.102129864035284, 21.101762724161908],
+    icon: pin1500,
+    title: "Sabinów",
+    description: `
+    <p>1500-10 r.</p>
+    
+  `,
+    photos: ["assets/Zwiastowanie.jodłowiec.jpg"]
+  },
 };
 
 Object.keys(placesData).forEach(placeKey => {
